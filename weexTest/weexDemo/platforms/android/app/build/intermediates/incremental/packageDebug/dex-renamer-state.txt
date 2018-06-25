@@ -1,0 +1,7 @@
+#Wed Apr 11 15:12:09 CST 2018
+base.0=E\:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5df13afc3bb3d422d300e4e522d0b58561a385b7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9089c3640419e77bbcf0757bdfc1ccbda8f064d6\\classes.dex
+base.1=E\:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9089c3640419e77bbcf0757bdfc1ccbda8f064d6
+file.0=E\:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5df13afc3bb3d422d300e4e522d0b58561a385b7\\classes.dex

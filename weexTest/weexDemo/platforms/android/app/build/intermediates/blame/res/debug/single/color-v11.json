@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\53e209c998494fdd91bbd72dca1a112e419314e2\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\53e209c998494fdd91bbd72dca1a112e419314e2\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

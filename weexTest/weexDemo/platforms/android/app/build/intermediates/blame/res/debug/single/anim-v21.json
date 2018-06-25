@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8a0ab0e2e309c409faf6d210d566a62ff23f32c5\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8a0ab0e2e309c409faf6d210d566a62ff23f32c5\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

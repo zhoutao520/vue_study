@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_refresh.png",
+        "source": "E:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_scan.png",
+        "source": "E:\\vue_study\\weexTest\\weexDemo\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_scan.png"
+    }
+]

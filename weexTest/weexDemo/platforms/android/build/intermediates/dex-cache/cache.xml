@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\ca972e138f39f1caa04e805008a4b8e29cc41c01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_b6cd41c3df8c7bf455e1bd9231893979eba08b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\e8bc48b779a784d75d7ef750fd12b741dcc0da93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_c22431d64a1f40ea5bf574574021d3f8567014e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_144c7ddc3aae23c8fdcbde401e7dfa13b0b48a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\f347b1fd175aa0e1162e81ae39e4e16052087a4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_5d1a9be9f58cea9d89204c2cdc3d9d93de57eae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0_f94a0f4a8574358c0d84080c746a107db3aaaa21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.46.android\108717c93f7aec31fb86db57cb4ad1e26034c638\fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\fastjson-1.1.46.android_c63a61d932375e64d47d79584d90779f1b601372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\1152e2a3f2cb42f9cb01c854a3dda1ab35f53afa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_8697834c8882a168d8676bffb72b06e6d041279c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\8a0ab0e2e309c409faf6d210d566a62ff23f32c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_81a3f887d9ece7623dd947ded0853896776cd9c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\eab5f10981cf488ea9bbd27f2b4ee94e8eea878e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_619afb453b86d7444fb06b9c286c2a9b541fb312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.taobao.android\weexplugin-annotation\1.3\f9c594cafe95ab01986863300b2f2993b5777b42\weexplugin-annotation-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f9c594cafe95ab01986863300b2f2993b5777b42">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\weexplugin-annotation-1.3_0ef9265ec161ac97ba96e4f2439efd1277f904b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\04cf44bba6b33af02602e178ffb456ad89b856ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_4046b9de6bfaaec5798358b655a66312e6f2417f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\f505a62e01c23e5770590effdd988d0dcff7461c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_50fcf616ca63911d98fb2c8551d8a0310415d445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_9b59878ad0079cbca4fb8a1e82d18541afbaba9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\7be70b683293e196b1d83f7a17bcfccdac956862\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cfcc5fc657d64c980b45db00cd75695d1ce2256">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_410430d823980595ded9c51e9286ba24827f933c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\core-3.2.1_2ca0c1a0019fa4a84526779c78b7c0fd8328c8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\a64711ebc99c474e341b757aa475872985526138\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_bdc3e207a33042fb6ecae472b5720f35e0de137c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\okio-1.3.0_ca5086c11ffb5caf5104946720748b8a9cc3c03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\53e209c998494fdd91bbd72dca1a112e419314e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_cf88279485c00704f1683e8b88b24f4f724b40d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\a9d4d03267869c51ce9a58dad85be2f22cde58bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_42ebd3cfe849a7d3e903f20becb19881225ce5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.3.0\7896d229b6aa7884552ab9c23de54c7eb0de8203\okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.3.0_44a6c005c792728d21a20b3c55b62c7f2fc8a170.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee3afd117d9dcb1dbad423e85c3cc89df8a3d495">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9089c3640419e77bbcf0757bdfc1ccbda8f064d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\1dbf8cc6676d9a2fefd990c1a6d9c43b10b7fa97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_90888e0cf657aa4186096148f5b902915bfe40c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.taobao.android\weexplugin-processor\1.3\90f4c5cdb14a255dd3cc341b563271494e8cd941\weexplugin-processor-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="90f4c5cdb14a255dd3cc341b563271494e8cd941">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\weexplugin-processor-1.3_99f715201fa85e97dbb5687442acdf01551be3ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\655a2480eba32d1e7c6255b208be8982fa62d2b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c85f46e9eed1cccfd0bf5df199dd53a66de98651">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e1564cb4658158ca233e30d5ce1c00601a46c941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\4046be4ecec215376cf53f39ac873848ebb849ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_516fba986d6bd4cd26ce536982ae29089a793f08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5df13afc3bb3d422d300e4e522d0b58561a385b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_5187986293579113bd5764d9b2ecfca7a0411064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_04ea954643b1868a14408bd8ab65ab1ffa3bbefd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\3e38b341250282face4cf25b2775f5df32d8479f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_dbdbc85c4d821a722e8930f2f11ea2964eccb7cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_08ed79868f1ec893b338f1d2abe1328ebd861fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\f7a4e72e86b2559b87166d1d6be02f6133519669\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\vue_study\weexTest\weexDemo\platforms\android\app\build\intermediates\pre-dexed\debug\classes_7ae5312b4ab5628116ab9570e9da3dce2714a572.jar" />
+    </item>
+
+</items>
